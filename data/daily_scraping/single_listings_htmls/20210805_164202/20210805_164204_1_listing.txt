@@ -1,0 +1,1782 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   QA Automation Tester (10)
+  </title>
+  <meta content="
+Email : jobs@sonnecto.com" name="description"/>
+  <meta content="Portal Pune, Oferta Pune, Kerko Pune, Shpall Pune, Shpall Konkurs, Pune ne Prishtine, Pune ne Kosove, Rekrutim, Panair Pune, Gjej Pune, Lyp Pune, Merre Pune, Punesim, Puna, Dua Pune, Ofroj Pune, Jap Pune," name="Keywords"/>
+  <meta content="QA Automation Tester (10)" property="og:title"/>
+  <meta content="https://kosovajob.com/sonnecto/qa-automation-tester-10" property="og:url"/>
+  <meta content="https://kosovajob.com/admin/companyLogos/962021561461720.png" property="og:image"/>
+  <meta content="Kosovajob.com" property="og:site_name"/>
+  <meta content="
+Email : jobs@sonnecto.com" property="og:description"/>
+  <meta content="QA Automation Tester (10)" itemprop="name"/>
+  <meta content="
+Email : jobs@sonnecto.com" itemprop="description"/>
+  <meta content="admin/companyLogos/962021561461720.png" itemprop="image"/>
+  <meta content="Mon, 26 Jul 1997 05:00:00 GMT" http-equiv="Expires"/>
+  <meta content="no-cache" http-equiv="Pragma"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,500,300" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   <meta content="al,en" http-equiv="content-language">
+    <meta content="notranslate" name="google">
+     <link href="//kosovajob.com/favicon.ico?vas=25" rel="Kosovajob.com">
+      <link href="//kosovajob.com/css/style.css?ssrr2twqwvwwwwwwqwwwwwsswswwwswssswwwwwsswwww=wwqmw" rel="stylesheet" type="text/css"/>
+      <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+      </script>
+      <!-- Start Alexa Certify Javascript -->
+      <script type="text/javascript">
+       _atrk_opts = { atrk_acct:"2Wwis1FYxz20cv", domain:"kosovajob.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+      </script>
+      <noscript>
+       <img alt="" height="1" src="https://certify.alexametrics.com/atrk.gif?account=2Wwis1FYxz20cv" style="display:none" width="1"/>
+      </noscript>
+      <!-- End Alexa Certify Javascript -->
+      <script src="js/jquery.bxslider.min.js">
+      </script>
+      <link href="css/jquery.bxslider.css?v=31" rel="stylesheet" type="text/css"/>
+      <link href="css/jobs.css?ajjdvahjsqvdasjhdvqsv=as22aasdaassdasss2sssss2q" rel="stylesheet" type="text/css"/>
+      <!--<script src="//code.jquery.com/mobile/1.5.0-alpha.1/jquery.mobile-1.5.0-alpha.1.min.js"></script>-->
+      <style>
+       .container{
+margin-bottom:33px;
+}
+.premiumImgClass {
+    position: absolute;
+    left: -11px;
+    top: 2px;
+    z-index: 9;
+    float: left;
+    width: 84px;
+    height: 32px;
+}
+.premiumImgClass2 {
+    position: absolute;
+    left: -9px;
+    top: 2px;
+    z-index: 9;
+    float: left;
+    width: 46px;
+    height: 32px;
+}
+
+.listsImage2PremiumF {
+    position: absolute;
+    border: 1px solid #FF9485;
+    padding-right: 9px;
+	width:100%;
+}
+@media (max-width: 481px){
+.premiumImgClass {
+    position: absolute;
+    left: -7px;
+    top: 2px;
+    z-index: 9;
+    float: left;
+    width: auto;
+    height: 22px;
+}
+.premiumImgClass2 {
+    position: absolute;
+    left: -6px;
+    top: 2px;
+    z-index: 9;
+    float: left;
+    width: auto;
+    height: 22px;
+}
+.listsPositionSimilar{
+height:32px !important;
+}	
+.containerLeftAreaTopArea{
+background-color:#FFF;
+}
+.containerLeftAreaTopAreaRightTitle{
+padding-top:15px;
+    margin-top: 0 !important;
+	padding-bottom:15px;
+	border-bottom:1px solid #FFF;
+ }
+ 
+.containerLeftAreaTopAreaRightTitleComp{
+text-transform:uppercase;
+font-size: 16px;
+}
+.containerLeftAreaTopAreaRightTitle h1{
+    font-size: 25px;
+	line-height:1.3;
+}
+
+.mce-panel iframe{
+width:100% !important;
+}
+
+}
+.containerLeftAreaTopAreaRightTitle{
+margin-top:unset ;
+    webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+	display:flex;
+ 	height:100%;
+	text-align:center
+}
+ 
+.containerLeftJobListsFooter{
+display:block;
+margin-top:0px;
+}
+#attentionGrabberWrap .plusoneBtn iframe{
+   margin-left: 10px !important;
+}
+      </style>
+      <style>
+       .mce-panel{
+background-color:transparent !important;
+border:none !important;
+}
+.mce-first, .i.mce-i-resize, .mce-last{
+display:none !important;
+}
+.mce-toolbar-grp{
+padding:0 !important;
+}
+.mce-tinymce{
+ box-shadow: none !important;
+ /*overflow:hidden;*/
+}
+ .containerLeftAreaTopAreaRightTitleCompT:hover{
+text-decoration:underline;
+}
+.popAlertArea {
+    position: relative;
+    float: left;
+    width: 961px;
+    height: 50px;
+    margin-bottom: 33px;
+    font-weight: 300;
+    font-size: 16px;
+    color: #FFF;
+    background-color: #FF9485;
+    line-height: 50px;
+    padding-left: 18px;
+    -webkit-transition: all 350ms ease-in-out;
+    -moz-transition: all 350ms ease-in-out;
+    -o-transition: all 350ms ease-in-out;
+    -ms-transition: all 350ms ease-in-out;
+    transition: all 350ms ease-in-out;
+	text-align:center;
+	font-weight:bold;
+}
+.homePopExitBtn {
+    position: absolute;
+    right: 18px;
+    font-size: 20px;
+    cursor: pointer;
+    top: 0px;
+}
+.listsImage2JobAd {
+    position: relative;
+    float: left;
+    height: 77px;
+    padding: 0;
+    width: 33%;
+} 
+.similarInfo{
+float:right !important;
+width:66% !important;
+right: -1px;
+}
+
+ 
+@media (max-width:481px) {
+.expireTag{
+margin-top:15px;
+}
+.mce-container, .mce-container-body {
+    width: 100% !important;
+}
+.popAlertArea {
+width:98%;
+margin-left:1%;
+margin-top:1%;
+margin-bottom:1%;
+padding:0;
+ font-size: 14px;
+}
+.homePopExitBtn{
+display:none;
+}
+
+
+.containerLeftAreaTopArea{
+		height:auto !important;
+	}
+	.containerLeftAreaTopAreaRight {
+		margin-top: 0 !important;
+	}
+.containerLeftAreaTopAreaLeftImage{
+	margin-bottom: 15px !important;
+}
+.containerLeftAreaTopAreaRightTitle{
+ 	text-align:center !important;
+	width:90% !important;
+ 	margin-left:0 !important;
+ 	padding-left:5% !important;
+ 	padding-right:5% !important;
+}
+.containerLeftAreaTopAreaRightShare{
+display:none !important;
+}
+.containerLeftAreaTopAreaRight{
+padding-bottom: 15px !important;
+}
+
+
+}
+ 
+.listsImage2PremiumF2{
+position: absolute;
+     padding-right: 9px;
+border: 1px solid #303255;
+    height: 75px;
+	width:100%;
+}
+      </style>
+      <link href="css/other.css?trwrservrw=wmawrwwsssssssssw2ssssswsssasdssssssssss2sss2" rel="stylesheet" type="text/css"/>
+      <!--<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"> 
+-->
+      <style>
+       @media (max-width:481px) {
+.containerLeftAreaTopAreaRightMob{
+width:100% !important;
+margin-left:0 !important;
+background-color:#e8e8e8;
+}
+.containerLeftAreaTopAreaLeft{
+border-bottom:none;
+}
+
+}
+      </style>
+      <meta content="width=device-width, initial-scale=1, maximum-scale=12.0, minimum-scale=.25, user-scalable=yes" name="viewport">
+       <script src="https://kosovajob.com/js/tinymce.min.js?apiKey=suqt7mdgdil2t611arqmevtd6pawu0c7i35b11hdgzxb1ajv">
+       </script>
+       <script type="text/javascript">
+        var preHeight = 0;
+	
+ tinymce.init({
+    readonly : 1, 
+	toolbar: false,
+	
+   	selector : "#defaultSettingsID",
+ 	width: 'inherit',
+ 	plugins: ['autoresize', 'autolink'],
+	  default_link_target:"_top",
+	   link_context_toolbar: true,
+    autoresize_min_height: "200",
+    autoresize_max_height: "50000",
+		content_css : "https://kosovajob.com/css/tinymce2.css?vsseawq2wwsqqewswwwwwswwwerrsrrwe=12",
+		setup: function (ed) {
+        ed.on('init', function(args) {
+		//	 preHeight = tinymce.activeEditor.getContentAreaContainer().firstChild.clientHeight;
+//			 preHeight = tinymce.activeEditor.editorContainer.clientHeight;
+//			 console.log(preHeight);
+//			 console.log($(tinymce.activeEditor.getContainer()).outerHeight());
+         });
+    }
+});
+       </script>
+      </meta>
+     </link>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KZQ892L" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="headerArea">
+   <div class="headerAreaContainer">
+    <div class="headerAreaContainerArea">
+     <a href="https://kosovajob.com/">
+      <div class="logoArea">
+      </div>
+     </a>
+     <div class="menuArea">
+      <a href="#">
+       <div class="menuAreaUrls" id="id_en">
+        <div class="id_enImg">
+        </div>
+       </div>
+      </a>
+      <a href="https://kosovajob.com/">
+       <div class="menuAreaUrls" id="id_home">
+        Ballina
+       </div>
+      </a>
+      <a href="https://kosovajob.com/blog">
+       <div class="menuAreaUrls" id="id_home">
+        Blog
+       </div>
+      </a>
+      <a href="https://kosovajob.com/krijo-cv">
+       <div class="menuAreaUrls" id="id_home">
+        Krijo CV
+       </div>
+      </a>
+      <a href="https://kosovajob.com/publiko">
+       <div class="menuAreaUrls">
+        Publiko Konkurs
+       </div>
+      </a>
+      <a href="https://kosovajob.com/kontakt">
+       <div class="menuAreaUrls">
+        Kontakt
+       </div>
+      </a>
+      <div class="menuAreaUrlsEffect menuAreaUrlsLightEffect" title="Turn on Dark Mode">
+      </div>
+      <!--	<a href="punesohu"><div class="menuAreaUrls">Ky&ccedil;uni
+				</div></a>-->
+      <div class="menuAreaSearch">
+       <form action="https://kosovajob.com/" autocomplete="off" method="get">
+        <input class="searchTop" name="q" onkeyup="getSuggestions(this.value);" placeholder="Kërko" type="text" value=""/>
+        <div id="searchSuggestions">
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+    <!--headerAreaContainerArea ends-->
+   </div>
+   <!--headerAreaContainer ends-->
+  </div>
+  <!--headerArea ends-->
+  <div class="headerAreaFade">
+  </div>
+  <div class="headerAreaMobile2">
+  </div>
+  <div class="headerAreaMobile">
+   <a href="https://kosovajob.com/">
+    <div class="logoAreaMobile">
+    </div>
+   </a>
+   <div class="settingsIconMobile">
+   </div>
+   <div class="settingsIconMobileSearch">
+   </div>
+  </div>
+  <!--headerAreaMobile ends-->
+  <div class="fixedAreaMobile">
+   <div class="fixedAreaMobileLetf">
+   </div>
+   <div class="fixedAreaMobileRight">
+    <a href="https://kosovajob.com/">
+     <div class="menuAreaUrls" id="id_home">
+      Ballina
+     </div>
+    </a>
+    <a href="https://kosovajob.com/blog">
+     <div class="menuAreaUrls" id="id_home">
+      Blog
+     </div>
+    </a>
+    <a href="https://kosovajob.com/krijo-cv">
+     <div class="menuAreaUrls" id="id_home">
+      Krijo CV
+     </div>
+    </a>
+    <a href="https://kosovajob.com/publiko">
+     <div class="menuAreaUrls">
+      Publiko Konkurs
+     </div>
+    </a>
+    <a href="https://kosovajob.com/llogaritja-e-pages">
+     <div class="menuAreaUrls">
+      Llogarite Pagën
+     </div>
+    </a>
+    <a href="https://kosovajob.com/kontakt">
+     <div class="menuAreaUrls">
+      Kontakt
+     </div>
+    </a>
+    <div class="menuAreaUrlsEffect menuAreaUrlsLightEffect" title="Turn on Dark Mode">
+    </div>
+    <!--	<a href="punesohu"><div class="menuAreaUrls">Ky&ccedil;uni
+				</div></a>-->
+   </div>
+   <div class="searchAreaMobile">
+    <form action="index" autocomplete="off" method="get">
+     <div class="searchAreaMobileContainer">
+      <input class="searchTop" name="q" onkeyup="getSuggestions22(this.value);" placeholder="Kërko" type="text" value=""/>
+     </div>
+     <div id="searchSuggestions2">
+     </div>
+    </form>
+   </div>
+  </div>
+  <style>
+   .headerAreaMobile2{
+position: relative;
+    float: left;
+    width: 100%;
+     height: 55px;
+}
+.headerAreaMobile{
+position:fixed;
+top:0;
+height:55px;
+z-index:999999999999999;
+}
+.fixedAreaMobile{
+position:fixed;
+top:0;
+left:0;
+display:none;
+width:100%;
+height:100%;
+top:55px;
+overflow:hidden;
+z-index:999999999999999;
+}
+.fixedAreaMobileRight{
+position:absolute;
+left:45%;
+width:55%;
+height:100%;
+z-index:999999999;
+background-color:#434368;
+overflow:hidden;
+}
+
+.fixedAreaMobileLetf{
+position:absolute;
+left:0;
+width:45%;
+height:100%;
+z-index:999999999;
+cursor:pointer;
+background-color:rgba(255,255,255,0.6);
+}
+.searchAreaMobile{
+position:absolute;
+left:0;
+width:100%;
+height:100%;
+z-index:999999999;
+cursor:pointer;
+display:none;
+background-color:rgba(255,255,255,0.6);
+}
+.transparentPopUp{
+position:fixed;
+z-index:9999999999999;
+background-color:rgba(0,0,0, 0.5);
+display:none;
+width:100%;
+height:100%;
+cursor:pointer;
+}
+.transparentPopUpImg{
+position:relative;
+width:980px;
+height:336px;
+top:50%;
+margin-top:-168px;
+left:50%;
+margin-left:-490px;
+}
+@media (max-width: 481px){
+.listingArea {
+    width: 72% !important;
+}
+}
+  </style>
+  <div class="transparentPopUp">
+   <img class="transparentPopUpImg" src="images/Contact-Us-2.png"/>
+  </div>
+  <script type="text/javascript">
+   $(document).ready(function(){
+
+$(document).on("click", "#id_en, #id_en2", function(e){ 
+	e.preventDefault();
+	$('.transparentPopUp').fadeIn(100);
+		 
+});
+$(document).on("click", ".transparentPopUp", function(e){ 
+	e.preventDefault();
+	$('.transparentPopUp').fadeOut(100);
+		 
+});
+
+
+$(document).on("click", ".settingsIconMobile", function(e){ 
+	 $(".settingsIconMobileSearch").removeClass('settingsIconMobileClicked');
+	 $('.searchAreaMobile').css('display','none');
+	 if($(this).hasClass('settingsIconMobileClicked')){
+	 	$(this).removeClass('settingsIconMobileClicked');
+		$('.fixedAreaMobileRight, .fixedAreaMobileLetf').css('display','none');
+		$('.fixedAreaMobile').fadeOut('fast');
+	 }
+	 else{
+		$(this).addClass('settingsIconMobileClicked');
+		$('.fixedAreaMobileRight, .fixedAreaMobileLetf').css('display','block');
+		$('.fixedAreaMobile').fadeIn('fast');	
+	}	 
+});
+
+$(document).on("click", ".fixedAreaMobileLetf", function(e){ 
+	$(".settingsIconMobile").click();
+});
+
+$(document).on("click", ".menuAreaUrlsEffect", function(e){ 
+	var modeEff = 0;
+	if($(this).hasClass('menuAreaUrlsDarkEffect')){
+		modeEff = 0;
+		$(".menuAreaUrlsEffect").removeClass('menuAreaUrlsLightEffect').removeClass('menuAreaUrlsDarkEffect');
+		$(".menuAreaUrlsEffect").addClass('menuAreaUrlsLightEffect');
+		$('#styleID1, #styleID1').remove();
+	}
+	else{
+		modeEff = 1;
+	//	$('head').append('<link  id="styleID1" rel="stylesheet" type="text/css" href="//kosovajob.com/css/darkTheme.css?rsww=wwqmw" />');
+	//	$('head').append('<link  id="styleID2" rel="stylesheet" type="text/css" href="//kosovajob.com/css/tinymce2_dark.css?vssawq2wwsqqewswwwwwswwwerrsrrwe=12" />');
+		$(".menuAreaUrlsEffect").removeClass('menuAreaUrlsLightEffect').removeClass('menuAreaUrlsDarkEffect');
+		$(".menuAreaUrlsEffect").addClass('menuAreaUrlsDarkEffect');
+		
+	}
+	
+	var data= 'mode='+modeEff;
+				$.ajax({	
+				type: "POST",
+				url:'//kosovajob.com/updateMode',
+				data:data,
+				cache: false,
+				success: function (data) {
+						location.reload();	
+						 
+					}  
+				});
+		//		location.reload();
+});
+
+
+$(document).on("click", ".settingsIconMobileSearch", function(e){ 
+	 $(".settingsIconMobile").removeClass('settingsIconMobileClicked');
+ 	 $('.fixedAreaMobileRight, .fixedAreaMobileLetf').css('display','none');
+	
+	 $('.searchAreaMobile').css('display','none');
+	 if($(this).hasClass('settingsIconMobileClicked')){
+	 	$(this).removeClass('settingsIconMobileClicked');
+		$('.searchAreaMobile').css('display','none');
+		$('.fixedAreaMobile').fadeOut('fast');
+ 	 }
+	 else{
+		$(this).addClass('settingsIconMobileClicked');
+		$('.searchAreaMobile').css('display','block');
+		$('.fixedAreaMobile').fadeIn('fast');	
+ 	}	 
+});
+
+  
+});
+  </script>
+  <div class="containerHolderAera" id="jobCnt">
+   <div class="containerHolder">
+    <div class="container">
+     <div class="containerLeftArea">
+      <div class="containerLeftAreaTopArea">
+       <div class="containerLeftAreaTopAreaLeft">
+        <a href="https://www.sonnecto.com/" rel="nofollow" target="_blank">
+         <div class="containerLeftAreaTopAreaLeftImage" style="background-image:url(https://kosovajob.com/admin/companyLogos/1561461720.png)">
+         </div>
+        </a>
+       </div>
+       <div class="containerLeftAreaTopAreaRight containerLeftAreaTopAreaRightMob">
+        <div class="containerLeftAreaTopAreaRightTitle">
+         <a href="https://www.sonnecto.com/" rel="nofollow" target="_blank">
+          <div class="containerLeftAreaTopAreaRightTitleComp containerLeftAreaTopAreaRightTitleCompT">
+           Sonnecto
+          </div>
+         </a>
+         <h1>
+          QA Automation Tester (10)
+         </h1>
+        </div>
+        <div class="containerLeftAreaTopAreaRightTitle containerLeftAreaTopAreaRightShare">
+        </div>
+        <div class="mobileOnlyCats">
+         <div class="mobileOnlySubCats" id="mobile_city">
+         </div>
+         <div class="mobileOnlySubCats" id="mobile_exp">
+         </div>
+         <div class="mobileOnlySubCats" id="mobile_orar">
+         </div>
+         <div class="mobileOnlySubCats" id="mobile_industry">
+         </div>
+        </div>
+       </div>
+      </div>
+      <!--containerLeftAreaTopArea ends-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js">
+      </script>
+      <div class="socialBtns">
+       <div class="socialBtnsBox">
+        <div class="socialBtnsIcons socialBtnsIconsFb">
+        </div>
+        <a href="viber://forward?text=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+         <div class="socialBtnsIcons socialBtnsIconsViber">
+         </div>
+        </a>
+        <a href="whatsapp://send?text=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+         <div class="socialBtnsIcons socialBtnsIconsWhatsapp">
+         </div>
+        </a>
+        <a href="fb-messenger://share/?link=https%3A%2F%2Fkosovajob.com%2Fsonnecto%2Fqa-automation-tester-10&amp;app_id=458628191655845">
+         <div class="socialBtnsIcons socialBtnsIconsMessenger">
+         </div>
+        </a>
+        <a href="mailto:?subject=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+         <div class="socialBtnsIcons socialBtnsIconsEmail">
+         </div>
+        </a>
+        <div class="socialBtnsIcons socialBtnsIconsCopyLink" data-clipboard-text="https://kosovajob.com/sonnecto/qa-automation-tester-10">
+         <div class="socialBtnsIconsCopyLinkTag">
+          Linku u kopjua
+         </div>
+        </div>
+       </div>
+      </div>
+      <script type="text/javascript">
+       var screen_width=screen.width;
+var screen_height=screen.height;
+var calculatePosition=function(e,t){return e/2-t/2};
+var popup=function(e,t,n){return!!e&&(t||(t=626),n||(n=436),window.open(e,"","menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width="+t+",height="+n+",left="+calculatePosition(screen_width,t)+",top="+calculatePosition(screen_height,n)),!1)};
+
+ 
+$(document).ready(function() {
+ 	
+	var clipboard = new ClipboardJS('.socialBtnsIconsCopyLink');
+	
+	$(document).on("click", ".socialBtnsIconsFb", function(e){ 
+		var linkToShare = 'https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent('https://kosovajob.com/sonnecto/qa-automation-tester-10')+ '&app_id=' + encodeURIComponent(458628191655845);
+		popup(linkToShare);
+ 	});
+	
+	$(document).on("click", ".socialBtnsIconsCopyLink", function(e){ 
+ 		 $('.socialBtnsIconsCopyLinkTag').addClass('socialBtnsIconsCopyLinkTagActive');
+  	});
+	
+});
+      </script>
+      <style>
+       .containerLeftAreDescription ul li{
+	list-style:disc;
+	
+	}
+	.containerLeftAreDescription{
+		width:643px;
+		padding-left:0;
+		padding-right:0;
+	}
+	.jobImgCC{
+	position:relative;
+	float:left;
+	position: relative;
+    float: left;
+    margin-bottom: 20px;
+     width: auto;
+	max-width:190px;
+	}
+	.jobImgCC2{
+	max-width:270px;
+	}
+	
+	@media (max-width: 481px){
+		.containerLeftAreDescription {
+			width: 98% !important;
+			margin-left: 1%;
+			padding: 0;
+		}
+		.jobImgCC{ 
+		left:50%;
+		margin-left:-95px;
+		margin-bottom:0;
+		}
+		.jobImgCC2{
+		left:50%;
+		margin-left:-134px;
+		}
+	}
+      </style>
+      <div class="containerLeftAreDescription" style="margin-top:20px;">
+       <h2 class="descHeader" style="z-index:9999999; display:none; ">
+        Përshkrimi i Punës
+       </h2>
+       <!--<pre class="desPredefined" style="font-family:'Roboto', sans-serif; "></pre>-->
+       <div class="socialBtns3 socialBtns4">
+        <div class="socialBtnsBox">
+         <div class="socialBtnsIcons socialBtnsIconsFb">
+         </div>
+         <div class="socialBtnsIcons socialBtnsIconsLinked">
+         </div>
+         <a href="fb-messenger://share/?link=https%3A%2F%2Fkosovajob.com%2Fsonnecto%2Fqa-automation-tester-10&amp;app_id=458628191655845">
+          <div class="socialBtnsIcons socialBtnsIconsMessenger">
+          </div>
+         </a>
+         <a href="mailto:?subject=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIcons socialBtnsIconsEmail">
+          </div>
+         </a>
+         <div class="socialBtnsIcons socialBtnsIconsCopyLink" data-clipboard-text="https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIconsCopyLinkTag">
+           Linku u kopjua
+          </div>
+         </div>
+        </div>
+       </div>
+       <script type="text/javascript">
+        var screen_width=screen.width;
+var screen_height=screen.height;
+var calculatePosition=function(e,t){return e/2-t/2};
+var popup=function(e,t,n){return!!e&&(t||(t=626),n||(n=436),window.open(e,"","menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width="+t+",height="+n+",left="+calculatePosition(screen_width,t)+",top="+calculatePosition(screen_height,n)),!1)};
+
+ 
+$(document).ready(function() {
+ 	
+	var clipboard = new ClipboardJS('.socialBtnsIconsCopyLink');
+	
+	$(document).on("click", ".socialBtnsIconsFb", function(e){ 
+		var linkToShare = 'https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent('https://kosovajob.com/sonnecto/qa-automation-tester-10')+ '&app_id=' + encodeURIComponent(458628191655845);
+		popup(linkToShare);
+ 	});
+	
+	$(document).on("click", ".socialBtnsIconsLinked", function(e){ 
+ 		var linkToShare = 'https://www.linkedin.com/shareArticle?mini=true&url=' +encodeURIComponent('https://kosovajob.com/sonnecto/qa-automation-tester-10')+ '&source=LinkedIn';
+		popup(linkToShare);
+ 	});
+	
+	$(document).on("click", ".socialBtnsIconsCopyLink", function(e){ 
+ 		 $('.socialBtnsIconsCopyLinkTag').addClass('socialBtnsIconsCopyLinkTagActive');
+  	});
+	
+});
+       </script>
+       <pre class="defaultSettings" id="defaultSettingsID">
+	 	 <p><img alt="" height="2200" src="https://www.kosovajob.com/admin/uploads/1628172560.jpg" width="1700"/></p>
+<p>Email : <span style="text-decoration: underline; color: #0000ff;"><strong>jobs@sonnecto.com</strong></span></p>		</pre>
+       <p>
+        <a data-mce-href="" href="https://kosovajob.com/sonnecto" rel="noopener" target="_top">
+         <img class="jobImgCC jobImgCC2" height="" src="images/KosovaJob_Lexo_Button2.png" width="100%"/>
+        </a>
+       </p>
+       <div class="divider">
+       </div>
+       <div class="tagsAreaBotoom">
+        <div class="tagsAreaBotoomLett">
+         Tags
+        </div>
+        <div class="tagsAreaBotoomLettRight">
+         <a href="/?q=QA Automation Tester">
+          <span class="tagCnt">
+           QA Automation Tester
+          </span>
+         </a>
+         <a href="/?q=Sonnecto">
+          <span class="tagCnt">
+           Sonnecto
+          </span>
+         </a>
+         <a href="/?q=Prishtine">
+          <span class="tagCnt">
+           Prishtine
+          </span>
+         </a>
+        </div>
+        <!--						<a href="/"><img style=" class="bottomImgHome" src="https://i.imgur.com/0ljWGT1.png" width="100%" height="" /></a>
+-->
+       </div>
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js">
+       </script>
+       <div class="socialBtns">
+        <div class="socialBtnsBox">
+         <div class="socialBtnsIcons socialBtnsIconsFb">
+         </div>
+         <a href="viber://forward?text=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIcons socialBtnsIconsViber">
+          </div>
+         </a>
+         <a href="whatsapp://send?text=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIcons socialBtnsIconsWhatsapp">
+          </div>
+         </a>
+         <a href="fb-messenger://share/?link=https%3A%2F%2Fkosovajob.com%2Fsonnecto%2Fqa-automation-tester-10&amp;app_id=458628191655845">
+          <div class="socialBtnsIcons socialBtnsIconsMessenger">
+          </div>
+         </a>
+         <a href="mailto:?subject=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIcons socialBtnsIconsEmail">
+          </div>
+         </a>
+         <div class="socialBtnsIcons socialBtnsIconsCopyLink" data-clipboard-text="https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIconsCopyLinkTag">
+           Linku u kopjua
+          </div>
+         </div>
+        </div>
+       </div>
+       <script type="text/javascript">
+        var screen_width=screen.width;
+var screen_height=screen.height;
+var calculatePosition=function(e,t){return e/2-t/2};
+var popup=function(e,t,n){return!!e&&(t||(t=626),n||(n=436),window.open(e,"","menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width="+t+",height="+n+",left="+calculatePosition(screen_width,t)+",top="+calculatePosition(screen_height,n)),!1)};
+
+ 
+$(document).ready(function() {
+ 	
+	var clipboard = new ClipboardJS('.socialBtnsIconsCopyLink');
+	
+	$(document).on("click", ".socialBtnsIconsFb", function(e){ 
+		var linkToShare = 'https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent('https://kosovajob.com/sonnecto/qa-automation-tester-10')+ '&app_id=' + encodeURIComponent(458628191655845);
+		popup(linkToShare);
+ 	});
+	
+	$(document).on("click", ".socialBtnsIconsCopyLink", function(e){ 
+ 		 $('.socialBtnsIconsCopyLinkTag').addClass('socialBtnsIconsCopyLinkTagActive');
+  	});
+	
+});
+       </script>
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js">
+       </script>
+       <div class="socialBtns2">
+        <div class="socialBtnsBox">
+         <div class="socialBtnsIcons socialBtnsIconsFb">
+         </div>
+         <div class="socialBtnsIcons socialBtnsIconsLinked">
+         </div>
+         <a href="fb-messenger://share/?link=https%3A%2F%2Fkosovajob.com%2Fsonnecto%2Fqa-automation-tester-10&amp;app_id=458628191655845">
+          <div class="socialBtnsIcons socialBtnsIconsMessenger">
+          </div>
+         </a>
+         <a href="mailto:?subject=QA Automation Tester (10) - Linku: https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIcons socialBtnsIconsEmail">
+          </div>
+         </a>
+         <div class="socialBtnsIcons socialBtnsIconsCopyLink" data-clipboard-text="https://kosovajob.com/sonnecto/qa-automation-tester-10">
+          <div class="socialBtnsIconsCopyLinkTag">
+           Linku u kopjua
+          </div>
+         </div>
+        </div>
+       </div>
+       <script type="text/javascript">
+        var screen_width=screen.width;
+var screen_height=screen.height;
+var calculatePosition=function(e,t){return e/2-t/2};
+var popup=function(e,t,n){return!!e&&(t||(t=626),n||(n=436),window.open(e,"","menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width="+t+",height="+n+",left="+calculatePosition(screen_width,t)+",top="+calculatePosition(screen_height,n)),!1)};
+
+ 
+$(document).ready(function() {
+ 	
+	var clipboard = new ClipboardJS('.socialBtnsIconsCopyLink');
+	
+	$(document).on("click", ".socialBtnsIconsFb", function(e){ 
+		var linkToShare = 'https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent('https://kosovajob.com/sonnecto/qa-automation-tester-10')+ '&app_id=' + encodeURIComponent(458628191655845);
+		popup(linkToShare);
+ 	});
+	
+	$(document).on("click", ".socialBtnsIconsLinked", function(e){ 
+ 		var linkToShare = 'https://www.linkedin.com/shareArticle?mini=true&url=' +encodeURIComponent('https://kosovajob.com/sonnecto/qa-automation-tester-10')+ '&source=LinkedIn';
+		popup(linkToShare);
+ 	});
+	
+	$(document).on("click", ".socialBtnsIconsCopyLink", function(e){ 
+ 		 $('.socialBtnsIconsCopyLinkTag').addClass('socialBtnsIconsCopyLinkTagActive');
+  	});
+	
+});
+       </script>
+      </div>
+      <!--containerLeftAreDescription ends-->
+     </div>
+     <!--containerLeftArea ends -->
+     <div class="containerRightArea containerRightAreaMobileNew">
+      <div class="containerRightAreaTopArea containerRightAreaTopAreaHideOnMobile" style="height:210px;">
+       <div class="listingArea listingAreaTop listingAreaTopComp" style="display:none">
+        Kompania
+        <b class="listingAreaInfo listingAreaInfoU">
+         Sonnecto
+        </b>
+       </div>
+       <div class="listingArea listingArea3 listingAreaTopComp" style="margin-top:10px;     border-top: none;">
+        Shikime
+        <b class="listingAreaInfo">
+         23
+        </b>
+       </div>
+       <div class="listingArea listingArea1 listingArea3Cat">
+        Kategoria
+        <b class="listingAreaInfo">
+         <a href="/?jobIndustry=15">
+          Informatikë
+         </a>
+        </b>
+       </div>
+       <div class="listingArea listingArea2 listingArea3Exp">
+        Skadon
+        <b class="listingAreaInfo">
+         56 ditë
+        </b>
+       </div>
+       <div class="listingArea listingArea3 listingArea3Orar">
+        Orari
+        <b class="listingAreaInfo">
+         Full Time
+        </b>
+       </div>
+       <div class="listingArea listingArea3 listingArea3loc " style="border-bottom: none;">
+        Lokacioni
+        <b class="listingAreaInfo listingAreaInfoL">
+         Prishtinë
+        </b>
+       </div>
+       <div class="listingArea listingArea9">
+       </div>
+       <style>
+        .listingAreaInfoU, .listingAreaInfoL{
+width:auto;
+}
+.listingArea9{
+height:5px;
+display:none;
+}
+       </style>
+       <script type="text/javascript">
+        $(document).ready(function(){
+  var getWidth = $('.listingAreaInfoU').css('width');
+   if(getWidth.substring(0,3)>145){
+  		$('.listingAreaInfoU').css('width','145px');
+		$('.listingAreaInfoU').css('line-height','1.3');
+  }
+
+  var getWidth2 = $('.listingAreaInfoL').css('width');
+ 	  if(getWidth2.substring(0,3)>145){
+			$('.listingAreaInfoL').css('width','145px');
+				$('.listingAreaInfoL').css('line-height','1.3');
+	  }
+ });
+       </script>
+      </div>
+      <!--containerRightAreaTopArea ends-->
+      <div class="containerRightAreaAds" style="background-color:#FFFFFF; height:auto; margin-top:10px;">
+       <div class="similarJobsHeader">
+        <span class="similarJobsHeaderSpan">
+         Shpallje të Ngjashme
+        </span>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/smartek-copier-solutions/serviser-serviser-praktikant">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF2 listsImage2PremiumF22 ">
+           <img class="premiumImgClass2 " src="https://kosovajob.com/images/e_re_new2.png">
+            <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1628153184.png)">
+            </div>
+           </img>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           Serviser,  Serviser - Praktikant
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 10 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/kode-labs/vende-te-lira-pune-5">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF">
+           <img class="premiumImgClass" src="https://kosovajob.com/images/premium_re.png"/>
+           <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1535046481.png)">
+           </div>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           Vende të lira pune (5)
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 10 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/2-java-developers-midsenior">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF">
+           <img class="premiumImgClass" src="https://kosovajob.com/images/premium_re.png"/>
+           <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1614607373.png)">
+           </div>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           2 Java Developers Mid/Senior
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 20 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/5-frontend-developers-reactjs-angular-juniormidsenior">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF">
+           <img class="premiumImgClass" src="https://kosovajob.com/images/premium_re.png"/>
+           <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1614607373.png)">
+           </div>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           5 Frontend Developers (ReactJS &amp; Angular) - Junior/Mid/Senior
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 20 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="containerRightAreaAds" style="margin-top:10px; height:auto; background-color:#FFF;">
+        <div class="revSliderRightArea">
+         <ul class="bxslider22" style="padding:0; margin:0; white-space:inherit">
+          <li>
+           <a href="https://www.instagram.com/punesohu.eu/" target="_blank">
+            <img alt="" height="250" src="admin/companyLogos/1621513088.png" title="" width="300"/>
+           </a>
+          </li>
+         </ul>
+         <script type="text/javascript">
+          $(document).ready(function(){
+  $('.bxslider22').bxSlider({mode: 'fade', randomStart:true, auto: false, pause: 400000});
+  });
+         </script>
+        </div>
+       </div>
+       <!--containerRightAreaAds ends-->
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/jobs?id=9596">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF">
+           <img class="premiumImgClass" src="https://kosovajob.com/images/premium_re.png"/>
+           <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1614607373.png)">
+           </div>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           .NET CORE Developers (5 -  Junior/Mid/Senior Developers)
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 20 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/sonnecto/sdet-instructor">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF">
+           <img class="premiumImgClass" src="https://kosovajob.com/images/premium_re.png"/>
+           <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1561461720.png)">
+           </div>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           SDET Instructor
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 29 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/comitas-services-llc/net-angular-software-developer">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1627980241.png)">
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           .NET &amp; Angular Software Developer
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 28 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <div class="listsSimilar">
+        <a href="https://kosovajob.com/butler-hospitality/it-technician">
+         <div class="listsImage2JobAd ">
+          <div class="listsImage2PremiumF">
+           <img class="premiumImgClass" src="https://kosovajob.com/images/premium_re.png"/>
+           <div class="listsImage2Similar" style="background-image:url(https://kosovajob.com/admin/companyLogos/1602083999.png)">
+           </div>
+          </div>
+         </div>
+         <div class="similarInfo">
+          <div class="listsPositionSimilar">
+           IT Technician
+          </div>
+          <div class="listsOtherSimilar">
+           <div class="listsDeadlineSimilar">
+            Skadon: 8 ditë
+           </div>
+           <div class="listsCitySimilar">
+            Prishtinë
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <a href="/">
+        <div class="relatedArticlesCnsBtn ">
+         Shiko të gjitha konkurset
+        </div>
+       </a>
+      </div>
+      <!--containerRightAreaAds ends-->
+      <div class="containerRightAreaAds" style="margin-top:0px; height:auto; background-color:#FFF;">
+       <iframe frameborder="0" height="750px" scrolling="no" src="https://kosovapress.com/ksjobFeed.php" style="border:1px solid #f1f2f2; margin-bottom:10px;" width="100%">
+       </iframe>
+      </div>
+     </div>
+     <!--containerRightArea ends-->
+    </div>
+    <!--container ends -->
+   </div>
+   <!--containerHolder ends -->
+  </div>
+  <!--containerHolderAera ends -->
+  <script type="text/javascript">
+   $(document).ready(function() {
+   
+});
+  </script>
+  <div class="containerLeftJobListsFooter">
+   <div class="containerLeft containerLeftFooter">
+    <div class="FooterTopArea">
+     <div class="FooterTopAreaCnt">
+      <div class="FooterTopAreaLogo FooterTopAreaLogoOld">
+      </div>
+      <div class="FooterTopAreaCntIson">
+       <img class="FooterTopAreaCntIsonImg" src="https://kosovajob.com/images/iso_icn.png"/>
+       <div class="FooterTopAreaCntIsonTxt">
+        KosovaJob is the largest employment network in Kosovo 
+			certified by  Bureau Veritas with ISO 9001:2015  Quality Management
+       </div>
+      </div>
+     </div>
+     <div class="FooterTopAreaCnt FooterTopAreaCntRight FooterTopAreaCntRight2">
+      <div class="FooterTopAreaCntIson">
+       <div class="FooterTopAreaCntIsonHeader">
+        Follow Us
+       </div>
+       <div class="FooterTopAreaLogoRight">
+        <a href="https://www.facebook.com/kosovajob" target="_blank">
+         <div class="FooterTopAreaLogoRightSocial">
+         </div>
+        </a>
+        <a href="https://www.instagram.com/kosovajob/" target="_blank">
+         <div class="FooterTopAreaLogoRightSocial FooterTopAreaLogoRightSocialT">
+         </div>
+        </a>
+        <a href="https://www.linkedin.com/company/kosovajob" target="_blank">
+         <div class="FooterTopAreaLogoRightSocial FooterTopAreaLogoRightSocialY">
+         </div>
+        </a>
+       </div>
+       <div class="copyRightTxtArea copyRightTxtAreaDeskt">
+        <div class="pmtIcons">
+        </div>
+        <div class="pmtIcons pmtIconsMC">
+        </div>
+       </div>
+       <div class="copyRightTxtArea">
+        Copyright © 2021 - KosovaJob LLC
+       </div>
+      </div>
+     </div>
+     <div class="FooterTopAreaCnt FooterTopAreaCntRight">
+      <div class="FooterTopAreaCntIson FooterTopAreaCntIson2">
+       <div class="FooterTopAreaCntIsonHeader">
+        Useful Links
+       </div>
+       <a href="https://kosovajob.com/publiko">
+        Publiko Konkurs
+       </a>
+       <a href="https://kosovajob.com/llogaritja-e-pages">
+        Llogarite Pagën
+       </a>
+       <a href="https://kosovajob.com/krijo-cv">
+        Krijo CV
+       </a>
+       <a href="https://kosovajob.com/blog">
+        Blog
+       </a>
+       <a href="https://kosovajob.com/kontakt">
+        Kontakt
+       </a>
+       <a href="#">
+        Terms of Use
+       </a>
+       <a href="https://kosovajob.com/politika-e-privatesise">
+        Privacy Policy
+       </a>
+      </div>
+     </div>
+     <div class="FooterTopAreaLogo FooterTopAreaLogoNew">
+     </div>
+     <div class="copyRightTxtArea2 copyRightTxtAreaDeskt">
+      <div class="pmtIcons">
+      </div>
+      <div class="pmtIcons pmtIconsMC">
+      </div>
+     </div>
+     <div class="copyRightTxtArea2 copyRightTxtArea2New">
+      Copyright © 2021 - KosovaJob LLC
+     </div>
+     <!--<div class="socialMobile" style="display:none;">
+<a href="https://www.facebook.com/kosovajob" target="_blank"><div class="FooterTopAreaLogoRightSocial"></div></a>
+<a href="https://www.instagram.com/kosovajob/" target="_blank"><div class="FooterTopAreaLogoRightSocial FooterTopAreaLogoRightSocialT"></div></a>
+<a href="https://www.linkedin.com/company/kosovajob" target="_blank"><div class="FooterTopAreaLogoRightSocial FooterTopAreaLogoRightSocialY"></div></a>
+</div>
+-->
+    </div>
+    <!--FooterTopArea ends-->
+    <div class="FooterTopAreaLine" id="FooterTopAreaLine" style="display:none;">
+    </div>
+    <!--FooterTopAreaLine ends-->
+    <div class="FooterTopAreaLine2" id="FooterTopAreaLineRighSecond2" style="display:none;">
+    </div>
+    <!--FooterTopAreaLine2 ends-->
+    <div class="footerLeftAreaBox" style="display:none;">
+     <a class="footerHrefs" href="#">
+      Marketing
+     </a>
+     <a class="footerHrefs footerHrefs2" href="#">
+      Jobs
+     </a>
+     <a class="footerHrefs" href="#">
+      Youtube Ch
+     </a>
+     <a class="footerHrefs footerHrefs2" href="#">
+      Policy
+     </a>
+     <a class="footerHrefs" href="#">
+      Galeria
+     </a>
+     <a class="footerHrefs footerHrefs2" href="#">
+      FAQ
+     </a>
+    </div>
+    <!--footerLeftAreaBox ends-->
+    <div class="FooterTopAreaLineRighFirst" id="FooterTopAreaLineRighFirstNew" style="display:none;">
+    </div>
+    <!--FooterTopAreaLineRighFirst ends-->
+    <div class="FooterTopAreaLineRighSecond" style="display:none;">
+    </div>
+    <!--FooterTopAreaLineRighSecond ends-->
+    <div class="footerPartnersArea" style="display:none;">
+     <div class="footerPartnersAreaHeader">
+      Partnerët
+     </div>
+     <div class="footerPartnersAreaIcons helvetasFooter">
+     </div>
+     <div class="footerPartnersAreaIcons iasFooter">
+     </div>
+     <div class="footerPartnersAreaIcons onlineFooter">
+     </div>
+     <div class="footerPartnersAreaIcons womenFooter">
+     </div>
+    </div>
+    <!--footerPartnersArea ends-->
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48313972-1', 'auto');
+  ga('send', 'pageview');
+    </script>
+    <!--<div class="FooterTopAreaLine" id="FooterTopAreaLine2" style="display:none;"></div>
+<div class="FooterTopAreaLine2" id="FooterTopAreaLineRighSecond22" style="display:none;"></div>
+-->
+    <div class="footerPartnersAreaSubscribe" style="display:none;">
+     <div class="footerPartnersAreaSubscribeTxt">
+      Regjistrohu këtu të pranosh
+      <br/>
+      lajmet më të reja rreth KosovaJob
+     </div>
+     <div class="newsLetterArea">
+      <input class="newsletterInput" maxlength="50" name="newsletter" placeholder="emaili juaj" type="text"/>
+      <div class="newsSignUpBtn">
+      </div>
+     </div>
+     <div class="newsLetterAreaBottom">
+      <a class="footerHrefs footerHrefs2 footerHrefs3" href="#">
+       Contact
+      </a>
+      <a class="footerHrefs footerHrefs2 footerHrefs3 footerHrefs4" href="#">
+       |
+      </a>
+      <a class="footerHrefs footerHrefs2 footerHrefs3" href="#">
+       Terms of Use
+      </a>
+      <a class="footerHrefs footerHrefs2 footerHrefs3 footerHrefs4" href="#">
+       |
+      </a>
+      <a class="footerHrefs footerHrefs2 footerHrefs3" href="https://kosovajob.com/politika-e-privatesise">
+       Privacy Policy
+      </a>
+      <a class="footerHrefs footerHrefs2 footerHrefs3 footerHrefs4" href="#">
+       © 2016 KOSOVAJOB, all rights reserved
+      </a>
+     </div>
+    </div>
+    <!--footerPartnersAreaSubscribe ends-->
+   </div>
+  </div>
+  <script type="text/javascript">
+   function getSuggestions(simpleSearch) {
+	if ((simpleSearch.length == 0) || (simpleSearch.length < 2)) {
+		$('#searchSuggestions').fadeOut(); 
+	} else {
+		
+			//alert(getSelectedCategory);
+		$.post("//kosovajob.com/suggest_1", {queryString: ""+simpleSearch+""}, function(data) { 
+			$('#searchSuggestions').fadeIn(); 
+			$('#searchSuggestions').html(data); 
+			});
+		}
+		
+}
+
+function getSuggestions22(simpleSearch) {
+	if ((simpleSearch.length == 0) || (simpleSearch.length < 2)) {
+		$('#searchSuggestions2').fadeOut(); 
+	} else {
+		
+			//alert(getSelectedCategory);
+		$.post("//kosovajob.com/suggest_1", {queryString: ""+simpleSearch+""}, function(data) { 
+			$('#searchSuggestions2').fadeIn(); 
+			$('#searchSuggestions2').html(data); 
+			});
+		}
+		
+}
+
+	$(document).on("click", ".firsSearchResult, .firsSearchResult2", function(){ 
+		window.location.href = $(this).attr('href'); 
+	});
+
+var buildUrl = function(base, key, value) {
+    var sep = (base.indexOf('?') > -1) ? '&' : '?';
+    return base + sep + key + '=' + value;
+}
+	
+$(document).ready(function() { 
+//
+//	$(document).on("click", "a", function(e){ 
+//		e.preventDefault();
+//		if(($(this).attr('href')!='') && ($(this).attr('href')!='#')){
+//			var myUrl = $(this).attr('href');
+// 			var newUrl = buildUrl(myUrl, 'token', '16281745241628174524-3807'); 
+//			window.location.href = newUrl;
+//		}
+//	});
+	
+	$(document).on("focus", ".searchTop", function(){ 
+		
+		$(this).addClass('searchTopExtra');
+		if($(this).val()=='k&euml;rko'){
+			$(this).val('');
+		}
+		else{
+			getSuggestions($(this).val());
+		}
+	});
+	
+	$(document).on("click", ".FooterTopAreaLogo", function(){ 
+		$("html, body").animate({ scrollTop: 0 }, "fast");
+	});
+	
+
+		
+	$(document).on("blur", ".searchTop", function(){ 
+		setTimeout(function(){
+			$('#searchSuggestions').css('display','none'); 
+			$(".searchTop").removeClass('searchTopExtra');
+			if($(".searchTop").val()==''){
+				$(".searchTop").val('k&euml;rko');
+			}
+		}, 160);
+
+	});
+	
+	$(window).scroll(function () {
+		if ($(window).scrollTop()  > 107 ){
+
+			if(!$('.headerArea').hasClass('headerAreaBelow')){
+				$('.headerArea').addClass('headerAreaBelow');
+				$('#id_en').addClass('id_en2');
+				$('.logoArea').addClass('logoAreaNew');
+				$('.menuArea').addClass('menuAreaNew');
+				$('.menuAreaUrls').addClass('menuAreaUrlsNew');
+				$('.menuAreaSearch').addClass('menuAreaSearchNew');
+			}
+		}
+		else{
+			
+			if($('.headerArea').hasClass('headerAreaBelow')){
+				$('.headerArea').removeClass('headerAreaBelow');
+				$('.logoArea').removeClass('logoAreaNew');
+				$('#id_en').removeClass('id_en2');
+				$('.menuArea').removeClass('menuAreaNew');
+				$('.menuAreaUrls').removeClass('menuAreaUrlsNew');
+				$('.menuAreaSearch').removeClass('menuAreaSearchNew');
+			}
+		}
+		});
+		
+
+	$('.newsSignUpBtn').click(function(){
+		//alert('yey');
+		var getInput = $('.newsletterInput').val();
+		
+		if(getInput!=''){
+			var data= 'email='+getInput;
+				$.ajax({	
+				type: "POST",
+				url:'updateEmails.php',
+				data:data,
+				cache: false,
+				success: function (data) {
+
+						if(data=='in'){
+							$('.newsSignUpBtn').css('background-image','url(images/tick.png)');
+							$('.newsletterInput').val('');							
+						}	
+					}  
+				});
+						
+		}
+	});		
+});
+  </script>
+  <a href="https://kosovajob.com/kode-labs/vende-te-lira-pune-5" style="z-index:99999;">
+   <div class="nextJobAdLink" style="z-index:99999;">
+   </div>
+  </a>
+  <style>
+   .similarJobsHeader{
+position:relative;
+float:left;
+width:100%;
+height:28px;
+background-color:#323256;
+}
+.similarJobsHeaderSpan{
+position:relative;
+float:left;
+margin-left:8px;
+text-transform:uppercase;
+font-size:13px;
+color:#FFF;
+line-height:28px;
+}
+.similarJobsHeaderSpanLink{
+position:relative;
+float:right;
+margin-right:8px;
+font-size:13px;
+color:#FFF;
+line-height:28px;
+}
+.similarJobsHeaderSpanLink:hover{
+text-decoration:underline;
+}
+.listsSimilar{
+position:relative;
+float:left;
+width:294px;
+border:1px solid #F1F2F2;
+background-color:#FFF;
+margin-top:10px;
+margin-left:2px;
+}
+.listsImage2Similar{
+position:relative;
+float:left;
+width:100%;
+height:69px;
+margin:3px;
+background-color:#FFFFFF;
+background-repeat:no-repeat;
+background-position:center;
+background-size:contain;
+}
+.similarInfo{
+position:relative;
+float:left;
+width:179px;
+height:100%;
+background-color:#F1F2F2;
+}
+.listsPositionSimilar{
+position:relative;
+float:left;
+margin:10px;
+width:159px;
+height:32px;
+overflow:hidden;
+line-height:1.3;
+color:#323256;
+font-size:13px;
+}
+.listsOtherSimilar{
+position:relative;
+float:left;
+width:159px;
+padding:10px;
+padding-bottom:0;
+padding-top:0;
+background-color:#63637C;
+height:25px;
+}
+.listsDeadlineSimilar{
+    position:relative;
+	float:left;
+ height:25px;
+    line-height: 25px;
+    color: #FFF;
+	font-size:10px;
+	padding-left:24px;
+    background-position: center left;
+	background-size:17px;
+    background-repeat: no-repeat;
+    background-image: url(images/calendarIcon.png);
+}
+.listsCitySimilar{
+    position:relative;
+	float:right;
+	 height:25px;
+    line-height: 25px;
+    color: #FFF;
+	    background-size: 14px;
+    padding-left: 18px;
+	font-size:10px;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-image: url(images/locationIcon.png);}
+	
+	.containerLeftAreaTopArea{
+	height:210px;
+	}
+	.containerLeftAreaTopAreaLeft, .containerLeftAreaTopAreaRight{
+	margin-top: 15px;
+	}
+  </style>
+  <script type="text/javascript">
+   $(document).ready(function() { 
+
+	$(document).on("click", ".gotoShareBtns", function(){ 
+		 $('html, body').animate({
+				scrollTop: $(".socialBtns").offset().top
+			}, 200);
+	});
+	
+ 	$('pre img').attr('width','100%');
+	$('pre img').attr('height','');
+	
+	$('#mobile_city').html('Prishtinë');
+	$('#mobile_orar').html('Full Time');
+	$('#mobile_exp').html('56 dit&euml;');
+	$('#mobile_industry').html('<a href="/?jobIndustry=15">Informatikë</a>');
+	
+});
+  </script>
+  <script type="text/javascript">
+   jQuery.browser = {};
+			jQuery.browser.msie = /msie/.test(navigator.userAgent.toLowerCase());
+			var urlLink = null;
+			urlLink = 'https://kosovajob.com/sonnecto/qa-automation-tester-10';
+			
+			if((urlLink!='')&&(!jQuery.browser.msie)){
+				window.history.pushState("object or string", "Title", urlLink);
+			}
+  </script>
+  <script type="text/javascript">
+   var previousScroll = 0;
+var timeoutFadeOut;
+var allHoverTimer;
+ var currentScroll;
+$(document).ready(function() { 
+
+
+ 	$(document).scroll(function(e){
+ 			 currentScroll = parseInt($(this).scrollTop())-400;
+			 if (currentScroll > previousScroll){
+				 setTimeout(function(){ 
+ 						if(!$('.fixedRecommendation').hasClass('fixedRecommendationShown')){
+							$('.fixedRecommendation').addClass('fixedRecommendationShown');
+							$('.fixedRecommendation').fadeIn(400);
+						}	
+						
+				 }, 7000);
+ 				 $(document).unbind('scroll');
+ 			}
+ 	});
+	
+	$(document).on("click", ".nextJobAdLink", function(e){ 
+		var hrefGo = $(this).parent().attr('href');
+		window.location.href = hrefGo;
+	});
+
+	$(document).on("click", ".fixedRecommendationClose", function(e){ 
+		$(".fixedRecommendation").remove();
+	});
+
+	setTimeout(function(){
+		$('.bottomFixedAd').css('display','none');
+	}, 10000);
+});
+  </script>
+ </body>
+</html>
+<script type="text/javascript">
+ function swipeleftHandler(  ){
+//	alert('Hello');
+	$(".nextJobClick").click();
+}
+$(document).ready(function() { 
+
+var lastScrollTop = 0;
+var scrollTimer;
+var scrollTimer1;
+$(window).scroll(function(event){
+   var st = $(this).scrollTop();
+   if(st>60){
+	   if (st > lastScrollTop){
+		   // downscroll code
+			if(($('.fixedAreaMobile').css('display')!='block') && (!$('.headerAreaMobile').hasClass('headerAreaMobileJobs'))){
+				clearTimeout(scrollTimer);
+				scrollTimer1 = setTimeout(function(){
+				$('.headerAreaMobile').addClass('headerAreaMobileJobs'); 
+				 } ,500); 
+			}
+	   } else {
+		  // upscroll code
+		  if(($('.fixedAreaMobile').css('display')!='block') && ($('.headerAreaMobile').hasClass('headerAreaMobileJobs'))){
+				clearTimeout(scrollTimer1);
+			//	scrollTimer = window.setTimeout(function(){ 
+				scrollTimer = setTimeout(function(){
+				$('.headerAreaMobile').removeClass('headerAreaMobileJobs'); // } ,50); 
+				}, 500);
+			}
+		  
+	   }
+	   lastScrollTop = st;
+   }
+   else{
+   		clearTimeout(scrollTimer1);
+		$('.headerAreaMobile, .nextJobAdLink').removeClass('headerAreaMobileJobs');
+   }
+});	
+//	$(function() {
+//		$( "#jobCnt" ).on( "swipeleft", function(){ 
+//				console.log('he');
+//				var redirectLink = $(".nextJobClick").first().attr('href');
+//				$("html, body").animate({ scrollTop: $('body').offset().top }, "fast");	
+//				$("body").load(redirectLink, function() {
+//				//execute here after load completed
+//						console.log('loaded');
+//				});
+//				console.log(redirectLink);
+//		} );
+	//	$(".nextJobClick").click(function(e) {
+//			e.preventDefault(); //so the browser doesn't follow the link
+//			console.log('hey');
+//			$("html, body").animate({ scrollTop: $('body').offset().top }, "fast");	
+//			$("body").load(this.href, function() {
+//				//execute here after load completed
+//					console.log('loaded');
+//			});
+//		});
+//	});
+});
+</script>
